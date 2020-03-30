@@ -18,9 +18,5 @@ Membuat tampilan peminjaman dan detail peminjaman
 # ![Alt Text](https://github.com/Yeremia395/Native/blob/master/peminjaman.png)
 # ![Alt Text](https://github.com/Yeremia395/Native/blob/master/detail%20pinjam.png)
 # ![Alt Text](https://github.com/Yeremia395/Native/blob/master/form%20pengembalian.png)
-# [Modul 5]
-Membuat form edit peminjaman
 # ![Alt Text](https://github.com/Yeremia395/Native/blob/master/edit%20pinjam.png)
-# [Modul 6]
-Membuat halaman login sebelum masuk ke dashboard
-# ![Alt Text](https://github.com/Yeremia395/Native/blob/master/login.png)
+NB: Masih Error,status dan denda belum keluar

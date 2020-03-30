@@ -17,6 +17,7 @@ Menambahkan fitur tambah anggota dan buku untuk memudahkan tanpa harus mengeditn
 Membuat tampilan peminjaman dan detail peminjaman
 # ![Alt Text](https://github.com/Yeremia395/Native/blob/master/peminjaman.png)
 # ![Alt Text](https://github.com/Yeremia395/Native/blob/master/detail%20pinjam.png)
+# ![Alt Text](https://github.com/Yeremia395/Native/blob/master/form%20pengembalian.png)
 # [Modul 5]
 Membuat form edit peminjaman
 # ![Alt Text](https://github.com/Yeremia395/Native/blob/master/edit%20pinjam.png)

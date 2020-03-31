@@ -19,5 +19,5 @@ Membuat tampilan peminjaman dan detail peminjaman
 # ![Alt Text](https://github.com/Yeremia395/Native/blob/master/detail%20pinjam%20new.png)
 # ![Alt Text](https://github.com/Yeremia395/Native/blob/master/form%20pengembalian%20new.png)
 # ![Alt Text](https://github.com/Yeremia395/Native/blob/master/edit%20peminjaman%20new.png)
-Untuk form pengembalian berfungsi jika tanggal pengembalian belum terisi atau buku belum di kembalikan
-# NB: Masih Error,status dan denda belum keluar
+# Untuk form pengembalian berfungsi jika tanggal pengembalian belum terisi atau buku belum di kembalikan
+

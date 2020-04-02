@@ -18,6 +18,11 @@ Membuat tampilan peminjaman dan detail peminjaman
 # ![Alt Text](https://github.com/Yeremia395/Native/blob/master/peminjaman.png)
 # ![Alt Text](https://github.com/Yeremia395/Native/blob/master/detail%20pinjam%20new.png)
 # ![Alt Text](https://github.com/Yeremia395/Native/blob/master/form%20pengembalian%20new.png)
-# ![Alt Text](https://github.com/Yeremia395/Native/blob/master/edit%20peminjaman%20new.png)
 # Untuk form pengembalian berfungsi jika tanggal pengembalian belum terisi atau buku belum di kembalikan
+# [Modul 5]
+# ![Alt Text](https://github.com/Yeremia395/Native/blob/master/edit%20peminjaman%20new.png)
+Menambahkan fitur edit pada peminjaman
+# [Modul 6]
+# ![Alt Text](https://github.com/Yeremia395/Native/blob/master/login.png)
+Membuat halaman login dan masuk ke dashboard apabila username dan pass benar
 
